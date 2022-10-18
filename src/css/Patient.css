@@ -1,0 +1,9 @@
+.logButton{
+     top:15%;
+     left:85%;
+     width: 10px;
+     height: 10px;
+     position:absolute;
+     z-index: 2;
+     font-size:medium;
+}
